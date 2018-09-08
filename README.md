@@ -1,0 +1,2 @@
+# EMMO
+EMMO static website
