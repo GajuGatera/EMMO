@@ -4,8 +4,8 @@ subtitle: Motherland
 permalink: /:title/
 email: blabla@gmail.com
 description: Give some kind of description.
-baseurl: "/EMMO/" # the subpath of your site, e.g. /blog
-url: "http://gajugatera.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Kigali
